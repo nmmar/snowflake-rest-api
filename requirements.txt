@@ -1,0 +1,3 @@
+cryptography
+pyjwt
+snowflake-connector-python
